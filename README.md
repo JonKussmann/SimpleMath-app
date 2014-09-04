@@ -1,4 +1,4 @@
 SimpleMath-app
 ==============
 
-App to practice simple math with voice
+Simple app to practice basic math skills using voice. Timer is based on Google Voice/Search timeouts.
